@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandOfThieves", "Assembly-CSharp.csproj", "{456077BD-D7EC-0D84-F697-FCE9E39752BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandOfThieves", "Assembly-CSharp-Editor.csproj", "{A336613A-0FBE-73C3-FAFA-D69A475965E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456077BD-D7EC-0D84-F697-FCE9E39752BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456077BD-D7EC-0D84-F697-FCE9E39752BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456077BD-D7EC-0D84-F697-FCE9E39752BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456077BD-D7EC-0D84-F697-FCE9E39752BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A336613A-0FBE-73C3-FAFA-D69A475965E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A336613A-0FBE-73C3-FAFA-D69A475965E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A336613A-0FBE-73C3-FAFA-D69A475965E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A336613A-0FBE-73C3-FAFA-D69A475965E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
