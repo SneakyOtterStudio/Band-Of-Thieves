@@ -88,3 +88,5 @@
 /Users/jason/Desktop/projects/SneakyOtterStudios/BandOfThieves/Temp/bin/Debug/Unity.Cecil.Mdb.dll
 /Users/jason/Desktop/projects/SneakyOtterStudios/BandOfThieves/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
 /Users/jason/Desktop/projects/SneakyOtterStudios/BandOfThieves/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/jason/Desktop/projects/SneakyOtterStudios/BandOfThieves/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jason/Desktop/projects/SneakyOtterStudios/BandOfThieves/Temp/bin/Debug/Assembly-CSharp.dll
