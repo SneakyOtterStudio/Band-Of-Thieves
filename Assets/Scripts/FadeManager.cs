@@ -5,7 +5,41 @@ using UnityEngine.UI;
 
 public class FadeManager : MonoBehaviour {
 
-	private Image image;
+	/*public Image image;
+	public float time;
+	private Color color;
+
+	void Start()
+	{
+		image = gameObject.GetComponent<Image> ();
+		StartCoroutine (FadeIn ());
+
+	}
+
+	IEnumerator FadeIn()
+	{
+		Color color = image.color;
+		while (image.color.a > 0) 
+			{
+			color.a -= Time.deltaTime / time;
+				image.color = color;
+		}
+		yield return null;
+	}
+
+	IEnumerator FadeOut()
+	{
+		Color color = image.color;
+			while (image.color.a < 1)
+			{
+				color.a += Time.deltaTime / time;
+				image.color = color;
+			}
+		yield return null;
+	}
+}*/
+
+/*	private Image image;
 
 	void Start (){
 		image = gameObject.GetComponent<Image>();
@@ -35,3 +69,4 @@ public class FadeManager : MonoBehaviour {
 		}
 	}
 }
+*/
